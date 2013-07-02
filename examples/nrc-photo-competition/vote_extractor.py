@@ -7,6 +7,9 @@ Requires BeautifulSoup.
 
 Use and modify as you see fit to apply to other results. Not guaranteed to work.
 
+See my blog post for more information:
+http://roderikk.nl/2013/06/21/extracting-data-from-websites-the-internet-is-a-beautiful-soup/
+
 Roderik Koenders
 """
 
